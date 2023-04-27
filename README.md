@@ -1,9 +1,6 @@
-# cool-graphite-and-turquoise v1.0.0 README
+# cool-graphite-and-turquoise v1.0.0
 
-# cold theme for web development (its my first attempt to create theme)
+cold theme for web development (its my first attempt to create theme)
+syntax highlighting inspired by Ace pale night.
 
-# Author: Alexey Glazov
-
-# Enjoy ^^
-
-s
+#Enjoy!
