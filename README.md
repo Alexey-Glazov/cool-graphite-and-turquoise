@@ -3,6 +3,6 @@
 cold theme for web development (its my first attempt to create theme)
 syntax highlighting inspired by Ace pale night.
 
-![screenshot](/screenShot.png)
+<image src="./screenShot.png" alt="screenshot of theme">
 
-#Enjoy!
+Enjoy!
