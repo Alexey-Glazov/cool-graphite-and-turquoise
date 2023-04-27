@@ -2,7 +2,24 @@
   "name": "cool-graphite-and-turquoise",
   "displayName": "Cool graphite and turquoise",
   "description": "cool graphite-grey theme with turquoise accents",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Alexey-Glazov",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexey-Glazov/cool-graphite-and-turquoise"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "cold accents",
+    "turquoise",
+    "turquoise theme",
+    "gray",
+    "asphalt",
+    "Alexey Glazov"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
