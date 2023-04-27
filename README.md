@@ -3,6 +3,6 @@
 cold theme for web development (its my first attempt to create theme)
 syntax highlighting inspired by Ace pale night.
 
-<image src="./screenShot.png" alt="screenshot of theme">
+![screenshot of theme](https://github.com/Alexey-Glazov/cool-graphite-and-turquoise/blob/fe22b01681d454c3630c9bd519667b4f9dcbf40f/screenShot.png);
 
 Enjoy!
